@@ -3,6 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 /*
+@author
 * version 0.0.1
 * Dated by 21.05.2019*/
 
