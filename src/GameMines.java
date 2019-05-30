@@ -88,7 +88,7 @@ class GameMines  extends JFrame {
             field[y][x].mine();
             countMines++;
         }
-        // to count dangerous neighbors
+        // to count dangerous neighbours
         for (x = 0; x < FIELD_SIZE; x++)
             for (y = 0; y < FIELD_SIZE; y++)
                 if (!field[y][x].isMined()) {
